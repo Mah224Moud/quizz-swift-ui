@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Mot{
+    var fr: String
+    var en: String
+}
